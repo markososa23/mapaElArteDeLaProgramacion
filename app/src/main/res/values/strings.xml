@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">mapaElArteDeLaProgramacion</string>
+    <string name="title_activity_maps1">Map</string>
+    <string name="marker_detail_latlng">(%1$.2f,%2$.2f)</string>
+    <string name="TolucaInfo">Toluca de Lerdo es una ciudad mexicana que es muy agradable a la vista
+    además puede ser increible vivir allí</string>
+    <string name="title_activity_maps_types">Map</string>
+    <string name="title_activity_mi_ubicacion">Map</string>
+</resources>
